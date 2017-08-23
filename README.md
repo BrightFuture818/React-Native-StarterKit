@@ -58,7 +58,7 @@ What's more, it's now integrated with [Firebase](https://firebase.google.com/), 
 ## Getting Started
 
 1. Ensure you've followed the [React Native - Get Started Guide](https://facebook.github.io/react-native/docs/getting-started.html) for the platform/s of choice
-1. Clone this project `git clone https://github.com/mcnamee/react-native-starter-app.git`
+1. Clone this project 
 1. Run `npm install` from root directory
 1. Create your own .env file (to store any app secrets) - simply run `cp .env.sample .env`
 1. [Setup your own Firebase API to get the full experience](#the-api--testing-out-authentication) (optional)
